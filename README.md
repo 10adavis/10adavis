@@ -8,7 +8,7 @@ I'm a senior scientist at Unilever currently working as a bioinformatician.
 
 🌱 I’m currently learning how to analyze single cell RNA-seq datasets using the Seurat suite of software tools in R.
 
-![single cell](https://github.com/10adavis/10adavis/blob/master/UMAP-AD-clusters.tiff)
+![single cell](https://github.com/10adavis/10adavis/blob/master/UMAP-AD-clusters.jpeg)
 
 
 📫 How to reach me: ...
