@@ -4,8 +4,10 @@
 ### Hi there 👋, I'm Andrew! 
 I'm a senior scientist at Unilever currently working as a bioinformatician. I am developing and utilizing pipelines for the analysis of large biological datasets, including transcriptomic, epigenetic, and proteomic data to derive greater biological understanding. 
 
-Email: [88adavis@gmail.com](mailto:88adavis@gmail.com) \n
-LinkedIN: [andrewjdavis-utmda](https://www.linkedin.com/in/andrewjdavis-utmda/) \n
+Email: [88adavis@gmail.com](mailto:88adavis@gmail.com)
+
+LinkedIN: [andrewjdavis-utmda](https://www.linkedin.com/in/andrewjdavis-utmda/) 
+
 ResearchGate: [Andrew_Davis6](https://www.researchgate.net/profile/Andrew_Davis6)
 
 <!--
