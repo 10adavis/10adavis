@@ -12,6 +12,7 @@ I'm a senior scientist at Unilever currently working as a bioinformatician.
 
 
 📫 How to reach me: ...
+
 Email: [88adavis@gmail.com](mailto:88adavis@gmail.com)
 
 linkedin: [andrewjdavis-utmda](https://www.linkedin.com/in/andrewjdavis-utmda/) 
