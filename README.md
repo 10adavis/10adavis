@@ -1,7 +1,9 @@
 
-![science](https://github.com/10adavis/10adavis/raw/master/banner.jpg)
+![science](https://github.com/10adavis/10adavis/master/banner.jpg)
 
-### Hi there 👋
+### Hi there 👋, I'm Andrew! I'm a senior scientist at Unilever currently working as a bioinformatician. I am developing and utilizing pipelines for the analysis of large biological datasets, including transcriptomic, epigenetic, and proteomic data. 
+Email me at [88adavis@gmail.com](mailto:88adavis@gmail.com) to get in touch. Thanks!
+
 
 <!--
 **10adavis/10adavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
