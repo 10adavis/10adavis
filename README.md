@@ -16,7 +16,7 @@ Email: [88adavis@gmail.com](mailto:88adavis@gmail.com)
 LinkedIN: [andrewjdavis-utmda](https://www.linkedin.com/in/andrewjdavis-utmda/) 
 ResearchGate: [Andrew_Davis6](https://www.researchgate.net/profile/Andrew_Davis6)
 
-![Visitor Count](https://profile-counter.glitch.me/10adavis/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=10adavis.10adavis)
 
 <!--
 **10adavis/10adavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
