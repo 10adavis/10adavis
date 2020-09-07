@@ -1,7 +1,7 @@
 
 ![science](https://github.com/10adavis/10adavis/blob/master/banner.jpeg)
 
-### Hi there 👋, I'm Andrew! 
+### Hi 👋, I'm Andrew! 
 I'm a senior scientist at Unilever currently working as a bioinformatician. 
 
 🔭 I’m currently developing and utilizing pipelines for the analysis of large biological datasets, including transcriptomic, epigenetic, and proteomic data to derive greater biological understanding. 
