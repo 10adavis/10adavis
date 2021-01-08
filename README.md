@@ -2,9 +2,7 @@
 ![science](https://github.com/10adavis/10adavis/blob/master/banner.jpeg)
 
 ### Hi 👋, I'm Andrew! 
-I'm a senior scientist at Unilever currently working in bioinformatics.
-
-🔭 I’m currently developing and utilizing pipelines for the analysis of large biological datasets, including transcriptomic, epigenetic, and proteomic data to derive greater biological understanding. 
+🔭 I’m a bioinformatician, and I'm interested in studying fundamental biology using the latest technology and computational methods. I'm currently developing and utilizing pipelines for the analysis of large biological datasets, including transcriptomic, epigenetic, and proteomic data to derive greater biological understanding. 
 
 🌱 I’m currently learning how to analyze single cell RNA-seq datasets using the Seurat suite of software tools in R.
 
