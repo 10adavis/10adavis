@@ -11,8 +11,6 @@
 
 📫 How to reach me: ...
 
-Email: [88adavis@gmail.com](mailto:88adavis@gmail.com)
-
 linkedin: [andrewjdavis-utmda](https://www.linkedin.com/in/andrewjdavis-utmda/) 
 
 ResearchGate: [Andrew_Davis6](https://www.researchgate.net/profile/Andrew_Davis6)
